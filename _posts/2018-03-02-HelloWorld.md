@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      HelloWorld
-subtitle:   Beginning
+subtitle:   From Beginning
 date:       2018-03-02
-author:     Zachary
-header-img: img/post_hello_world.jpg
+author:     BY
+header-img: img/post-bg-github-cup.jpg
 catalog: true
 tags:
-	- 前言
+
 ---
 
 ### 目录
