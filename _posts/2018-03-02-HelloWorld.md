@@ -7,6 +7,7 @@ author:     Zachary
 header-img: img/post_hello_world.jpg
 catalog: true
 tags:
+	- 前言
 ---
 
 ### 目录
