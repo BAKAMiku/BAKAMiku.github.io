@@ -25,7 +25,8 @@ github_username:    BakaMiku
 #jianshu_username:   e71990ada2fd
 twitter_username:   Baka_Miku_
 
-
+#text highlight
+pygments: true
 
 
 # Build settings
@@ -50,7 +51,7 @@ gems: [jekyll-paginate]
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
