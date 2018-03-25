@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Markdown
+title:      WordPress建站随笔
 subtitle:   我的WordPress建站随笔
-date:       2018-03-03
+date:       2018-03-25
 author:     Zachary
 header-img: img/post-bg-coffee.jpg
 catalog: true
