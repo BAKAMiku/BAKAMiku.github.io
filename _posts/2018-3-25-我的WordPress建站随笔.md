@@ -16,10 +16,11 @@ tags:
 ```
 cd xxx//进入本目录下的 xxx 文件夹中
 cd ..//返回上一层菜单
+
+logout//退出登录
 ```
 
 ### 创建密钥对
-
 ```
 ~ ssh-keygen
 Generating public/private rsa key pair.
